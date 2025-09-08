@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+scikit-learn
+lightgbm
+shap
+optuna
+matplotlib
+polars
+openpyxl
+scipy
+pytest
+pytest-cov
+pytest-mock
+pyyaml
+pyarrow
+tabulate
