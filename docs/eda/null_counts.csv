@@ -1,0 +1,10 @@
+Column,Null_Count,Null_Percentage,Non_Null_Count
+Invoice,0,0.0,1067371
+StockCode,0,0.0,1067371
+Description,4382,0.41,1062989
+Quantity,0,0.0,1067371
+InvoiceDate,0,0.0,1067371
+Price,0,0.0,1067371
+Customer ID,243007,22.77,824364
+Country,0,0.0,1067371
+source_year,0,0.0,1067371

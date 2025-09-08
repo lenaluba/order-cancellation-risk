@@ -1,0 +1,10 @@
+Column,Unique_Count,Unique_Percentage,Total_Count
+Invoice,53628,5.02,1067371
+StockCode,5305,0.5,1067371
+Description,5698,0.53,1067371
+Quantity,1057,0.1,1067371
+InvoiceDate,47635,4.46,1067371
+Price,2807,0.26,1067371
+Customer ID,5942,0.56,1067371
+Country,43,0.0,1067371
+source_year,2,0.0,1067371
