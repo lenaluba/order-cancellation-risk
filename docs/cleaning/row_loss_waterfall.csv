@@ -1,0 +1,9 @@
+step,rows_remaining,rows_removed
+initial,1067371,0
+collapse_duplicates,1021424,45947
+drop_technical,1019963,1461
+drop_extreme_prices,1019954,9
+drop_zero_price,1014026,5928
+drop_negative_non_credit,1014026,0
+handle_missing_id,786052,227974
+isolation_forest,785285,767
