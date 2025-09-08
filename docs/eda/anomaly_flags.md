@@ -5,7 +5,7 @@
 - **Percentage of dataset:** 1.06%
 - **Recommendation:** Review flagged transactions before model training
 
-## 1. Quantity == ±1,000
+## 1. Quantity == Â±1,000
 
 **Business Impact:** Potential data entry errors or unusual bulk transactions
 
@@ -20,7 +20,7 @@
 |    502267 | 21984       | PACK OF 12 PINK PAISLEY TISSUES  |       1000 |    0.5  |         17940 |
 |    507450 | POST        | <NA>                             |       1000 |    0    |           nan |
 
-## 2. Price > £10,000
+## 2. Price > Â£10,000
 
 **Business Impact:** Luxury items or potential pricing errors
 
