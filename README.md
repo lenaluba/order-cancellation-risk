@@ -16,11 +16,10 @@ make download && make run
 ```
 
 ## Folder Structure
+- `config/` – config files
 - `data/` – raw and processed data
-- `notebooks/` – exploratory analysis and modelling
-- `scripts/` – data ingestion, feature engineering, modelling scripts
-- `outputs/` – generated metrics, plots, SHAP values
 - `docs/` – project documentation
+- `scripts/` – data ingestion, feature engineering, modelling scripts
 - `tests/` – unit tests
 
 See `Makefile` for common tasks.
