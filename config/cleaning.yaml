@@ -1,0 +1,5 @@
+# Cleaning configuration parameters
+DROP_MISSING_ID: true           # if false, surrogate "anon"
+PRICE_CAP_Q: 0.99               # quantile for unit-price cap
+BASKET_CAP_Q: 0.995             # quantile for basket-value cap
+ISOLATION_CONTAM: 0.001         # optional multivariate outlier %
